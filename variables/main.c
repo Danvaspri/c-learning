@@ -6,5 +6,5 @@ main(){
   char char_var[13]= "Hello, World!";
   printf("%d is an integer\n",integer_var);
   printf("%f is a float\n",float_var);
-  printf("%s is a char\n",char_var);
+printf("%s is a char\n",char_var);
 }
