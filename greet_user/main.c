@@ -11,7 +11,7 @@ main(){
 printf("Enter yout last name: \n");
   scanf("%1023s",last_name);
   realloc(last_name, strlen(last_name)+1);
-  printf("%s", first_name);
-  printf("%s",last_name); 
+  printf("Hello %s %s!, have an excelent day :) \n", first_name, last_name);
+
 
 }
